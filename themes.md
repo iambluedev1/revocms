@@ -4,7 +4,7 @@
 
 ### Thèmes
 
-- [X] https://colorlib.com/preview/theme/invest/
+- [ ] https://colorlib.com/preview/theme/invest/
 - [ ] http://torbara.com/demo/?theme=W-Esta&storefront=envato-elements
 - [ ] http://rometheme.net/muse/ngoo/?storefront=envato-elements
 - [ ] https://cs-watz.myshopify.com/?storefront=envato-elements
