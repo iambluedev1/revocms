@@ -43,3 +43,4 @@
 - [ ] http://adminio.themonkeythemes.com/#/dashboard?storefront=envato-elements
 - [ ] https://demo.pixelcave.com/freshui/index.php?mode=default (Boxed)
 - [ ] https://demo.pixelcave.com/freshui/index.php?mode=classic (Normal)
+- [ ] http://themetrace.com/template/amanda/app/index.html?storefront=envato-elements
