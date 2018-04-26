@@ -31,5 +31,5 @@
 
 ### Framework
 
-- [ ] Se rapprocher de ce quil est fait actuellement dans l'éco-système php
+- [ ] Se rapprocher de ce qu'il ce fait actuellement dans l'éco-système php
 - [ ] Système de cache poussé (à la cakephp)
