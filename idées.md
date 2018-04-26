@@ -25,6 +25,7 @@
 - [ ] Ajout de la possibilité d'envoie d'email pour confirmation d'achat
 - [ ] Ajout de la possibilité d'envoie d'email pour avertir la réception d'achat
 - [ ] Possibilité d'acheter et de changer le Thème du Panel Admin
+- [ ] Connexion à double facteurs
 
 ### Connecteurs (serveurs de jeux)
 
