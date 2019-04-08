@@ -1,0 +1,18 @@
+#!/usr/bin/env php
+<?php
+/**
+ * @author iambluedev
+ * @copyright RevoCMS.fr | 2017
+ */
+require_once 'vendor/autoload.php';
+
+use Symfony\Component\Console\Application;
+use Shell\ClearSessionsCommand;
+use Shell\ClearCacheCommand;
+use Shell\ClearLogsCommand;
+
+$console = new Application('CraftaShop - Cli', '1.0.0');
+$console->add(new ClearSessionsCommand());
+$console->add(new ClearCacheCommand());
+$console->add(new ClearLogsCommand());
+$console->run();
